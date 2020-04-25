@@ -106,5 +106,8 @@
 
         </main>
     </div>
+
+    @yield('delscripts')
+    
 </body>
 </html>
